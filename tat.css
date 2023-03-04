@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: blueviolet;
+    font-size: 19px;
+}
+
+h2 {
+    text-align: justify;
+    color: blue;
+    margin-top: 19px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+p {
+    word-spacing: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: yellow;
+    text-decoration: brown;
+}
