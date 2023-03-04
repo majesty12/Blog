@@ -24,3 +24,10 @@ p {
     background-color: yellow;
     text-decoration: brown;
 }
+
+li {
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-indent: 0in;
+}
